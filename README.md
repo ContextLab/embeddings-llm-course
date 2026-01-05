@@ -1,8 +1,8 @@
 # Assignment 3: Representing Meaning - A Computational Exploration of Semantic Space
 
-> **📥 Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/0ofsYcmO)
+> **Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/0ofsYcmO)
 >
-> **📅 Due:** January 30, 2026 at 11:59 PM EST
+> **Due:** January 30, 2026 at 11:59 PM EST
 >
 > Click the link above to create your private repository for this assignment. Complete your work in Google Colab, then push your notebook to the repository before the deadline.
 
